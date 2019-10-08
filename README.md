@@ -1,1 +1,1 @@
-#  Mutation Testing on Deep Learning Systems (mutestofdl)
+#  Mutation Testing of Deep Learning Systems (mutestofdl)
